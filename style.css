@@ -27,6 +27,7 @@ body {
     gap: 50px;
     position: relative;
     padding-left: 90px;
+    top: 130px;
 
 
 
@@ -68,7 +69,7 @@ body {
     gap: 50px;
     position: absolute;
     padding-left: 30%;
-    top: 130px;
+    top: 220px;
 }
 
 .container7 {
@@ -93,7 +94,6 @@ body {
     border-radius: 10px;
     font-family: 'cursive';
     font-size: 26px;
-    top: 100px;
     position: relative;
     color: #424242;
     text-decoration: none;
@@ -190,11 +190,12 @@ hr {
     color: #EDEDED;
     width: auto;
     position: relative;
-    /* right: 14px; */
 }
 
-.checkbox {
-    font-size: 10px;
+input[ type="checkbox"] {
+    width: 20px;
+    height: 20px;
+
 }
 
 #text {
