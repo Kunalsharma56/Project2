@@ -19,7 +19,7 @@ body {
 
 .container2 {
     height: auto;
-    width: auto;
+    width: 1180px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -114,6 +114,7 @@ body {
     top: 50px;
     color: #424242;
     font-size: 25px;
+    width:170px;
 }
 
 .box3 {
@@ -123,6 +124,7 @@ body {
     top: 50px;
     color: #424242;
     font-size: 25px;
+    width:170px;
 }
 
 .box4 {
